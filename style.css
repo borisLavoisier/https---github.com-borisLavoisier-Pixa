@@ -745,7 +745,37 @@ margin-left: -10px;
 
 
 /* **************************************************RESPONSIVE******************************************************************** */
+@media only screen and (min-width: 768px) {
 
-@media only screen and (min-width: 992px) {
+	header{
+		display: flex;
+		justify-content: space-around;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.bloc1{
+		width: 50%;
+		height:150px ;
+		background-image: url(imagemaquette6.jpg);
+		border-radius: 20px;
+		display: flex;
+		justify-content: flex-end;
+		align-items: flex-end;
+		overflow: hidden;
+	}
+
+	.decouvre1{
+		width: 100px;
+		height: 30px;
+	}
+
+	.decouvre1 p{
+		font-size: 12px;
+		font-family: lato;
+		font-weight: bold;
+		text-align: center;
+	}
+
 	
 }
