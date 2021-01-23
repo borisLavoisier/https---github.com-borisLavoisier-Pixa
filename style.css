@@ -97,7 +97,6 @@ header{
 .p2{
 	text-align: center;
 	font-family: lato;
-	font-weight: regular;
 	font-size: 11px;
 }
 
@@ -127,7 +126,6 @@ margin-top: 21px;
 
 .section1 p{
 	font-family: lato;
-	font-weight: regular;
 	font-size: 11px;
 }
 
@@ -204,7 +202,6 @@ margin-top: 21px;
 
 .p2bloc3{
 	font-size: 10px;
-	font-weight: regular;
 	font-family: lato;
 	text-align: center;
 }
@@ -254,7 +251,6 @@ margin-top: 21px;
 
 .p2bloc5{
 	font-family: lato;
-	font-weight: regular;
 	font-size: 11px;
 	text-align: center;
 }
@@ -352,7 +348,6 @@ margin-top: 21px;
 	margin-top: 5px;
 	font-size: 12px;
 	font-family: lato;
-	font-weight: regular;
 	margin-left: 15px;
 
 }
@@ -368,7 +363,6 @@ margin-top: 21px;
 	list-style-type: none;
 	font-size: 12px;
 	font-family: lato;
-	font-weight: regular;
 	margin-top: 10px;
 }
 
@@ -376,16 +370,15 @@ margin-top: 21px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-margin-top: 21px;
+	margin-top: 21px;
 }
-}
+
 
 .produit1{
 	display: flex;
 	flex-direction: column;
 	width: 100%;
 	justify-content: center;
-	/* width: 100vw; */
 }
 
 .insta{
@@ -424,7 +417,6 @@ margin-top: 21px;
 
 .avis1{
 	font-size: 14px;
-	font-weight: regular;
 	font-family: lato;
 	text-align: center;
 }
@@ -532,7 +524,7 @@ margin-top: 21px;
 
 .ppieces{
 	font-size: 14px;
-	font-size: bold;
+	font-weight: bold;
 	font-family: Amaranth;
 	text-align: center;
 	color: #06D6A0;
@@ -565,7 +557,6 @@ margin-top: 21px;
 .avis3{
 	font-size: 11px;
 	font-family: lato;
-	font-weight: regular;
 	text-align: center;
 	margin-left: 25px;
 }
@@ -603,7 +594,6 @@ footer{
 .pixagram li{
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 	list-style-type: none;
 	text-align: center;
 	
@@ -630,7 +620,6 @@ footer{
 .telephone p{
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 }
 
 .email{
@@ -643,7 +632,6 @@ footer{
 .email p{
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 }
 
 .position{
@@ -656,7 +644,6 @@ footer{
 .position p{
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 }
 
 .iconeFooter{
@@ -679,7 +666,6 @@ footer{
 .contact2 p{
 	margin-top: 3px;
 	font-size: 10px;
-	font-weight: regular;
 	margin-left: 5px;
 	color: black;
 	text-align: center;
@@ -706,7 +692,6 @@ margin-left: -10px;
 .actualites li{
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 	text-align: center;
 	list-style-type: none;
 
@@ -732,7 +717,6 @@ margin-left: -10px;
 .aide li {
 	font-size: 14px;
 	font-family: lato;
-	font-weight: regular;
 	text-align: center;
 }
 
